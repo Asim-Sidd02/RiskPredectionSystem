@@ -5,7 +5,6 @@
 
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Usage](#usage)
 - [File Structure](#file-structure)
 - [Author](#author)
 
