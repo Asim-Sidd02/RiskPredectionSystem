@@ -53,5 +53,8 @@ The project directory structure is organized as follows:
   - Portfolio: [Asim Sidd](https://asimsidd.vercel.app/)
 
 
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 
