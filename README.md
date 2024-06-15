@@ -21,8 +21,12 @@ pip install pandas scikit-learn matplotlib seaborn
 
 
 ## Author
-Asim Siddiqui
-asimsiddiqui8181@gmail.com
+
+- **Asim Siddiqui**
+- **Contact Information**
+  - Email: asimsiddiqui8181@gmail.com
+  - LinkedIn: [Asim Siddiqui](https://www.linkedin.com/in/asim-siddiqui-a71731229/)
+  - Portfolio: [Asim Sidd](https://asimsidd.vercel.app/)
 
 
 
