@@ -1,7 +1,13 @@
 # Machine Learning Model and Report Generation
 ## _This repository contains scripts to build a machine learning model for predicting loan risk based on financial data and generate a PDF report with model performance metrics and visualizations._
 
+## Table of Contents
 
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Usage](#usage)
+- [File Structure](#file-structure)
+- [Author](#author)
 
 ## Prerequisites
 
