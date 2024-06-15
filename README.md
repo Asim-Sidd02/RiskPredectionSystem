@@ -11,7 +11,7 @@ Install the dependencies using pip:
 
 ```bash
 pip install pandas scikit-learn matplotlib seaborn
-Usage
+#Usage
 1. Clone the repository
 bash
 Copy code
