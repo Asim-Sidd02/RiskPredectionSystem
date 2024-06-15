@@ -8,8 +8,8 @@
 Clone the repository
 
 ```sh
-git clone https://github.com/your_username/your_repository.git
-cd your_repository
+git clone https://github.com/Asim-Sidd02/RiskPredectionSystem.git
+cd RiskPredectionSystem
 ```
 
 Install the dependencies using pip:
