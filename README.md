@@ -2,6 +2,12 @@
 ## _This repository contains scripts to build a machine learning model for predicting loan risk based on financial data and generate a PDF report with model performance metrics and visualizations._
 
 
+
+## Prerequisites
+
+- Python 3.x
+- Required Python packages: pandas, scikit-learn, matplotlib, seaborn
+
 ## Installation
 
 
