@@ -1,32 +1,29 @@
-# Loan Risk Prediction Model and Report Generation
+# Machine Learning Model and Report Generation
+## _This repository contains scripts to build a machine learning model for predicting loan risk based on financial data and generate a PDF report with model performance metrics and visualizations._
 
-This repository contains scripts to build a machine learning model for predicting loan risk based on financial data and generate a PDF report with model performance metrics and visualizations.
 
-## Prerequisites
+## Installation
 
-- Python 3.x
-- Required Python packages: pandas, scikit-learn, matplotlib, seaborn
+
+Clone the repository
+
+```sh
+git clone https://github.com/your_username/your_repository.git
+cd your_repository
+```
 
 Install the dependencies using pip:
 
-```bash
+```sh
 pip install pandas scikit-learn matplotlib seaborn
-#Usage
-1. Clone the repository
-bash
-Copy code
-git clone https://github.com/your_username/your_repository.git
-cd your_repository
-2. Prepare your data
-Ensure your dataset (german_credit_data.csv) is placed in the root directory of the repository.
+```
 
-3. Build the machine learning model
-Script: modelBuilding.py
-This script preprocesses the data, trains a Random Forest Classifier, and evaluates its performance.
 
-bash
-Copy code
-python modelBuilding.py
-4. Generate the PDF report
-Script: reportGeneration.py
-This script generates a PDF report (ML_Model_Report.pdf) containing visualizations and metrics of the trained model.
+
+## Author
+Asim Siddiqui
+asimsiddiqui8181@gmail.com
+
+
+
+
