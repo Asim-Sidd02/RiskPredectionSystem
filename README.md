@@ -7,6 +7,7 @@
 - [Installation](#installation)
 - [File Structure](#file-structure)
 - [Author](#author)
+- [License](#license)
 
 ## Prerequisites
 
